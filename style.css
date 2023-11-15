@@ -1,4 +1,23 @@
 img {
-  height: 80px;
+  size: 90px;
 }
 
+div > h4 {
+  font-size: 15px;
+  color: sienna;
+}
+
+body {
+  background-color: tan;
+}
+.source {
+  font-size: 16px;
+}
+
+.songwriter {
+  font-weight: bold;
+}
+
+.container {
+  color: aqua;
+}
