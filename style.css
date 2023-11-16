@@ -1,5 +1,7 @@
-img {
-  size: 90px;
+.image--vid {
+  width: 100vw;
+  height: 40vh;
+  margin: 0 auto;
 }
 
 div > h4 {
@@ -10,6 +12,7 @@ div > h4 {
 body {
   background-color: tan;
 }
+
 .source {
   font-size: 16px;
 }
