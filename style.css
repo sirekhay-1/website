@@ -1,7 +1,7 @@
 .image--vid {
-  width: 100vw;
-  height: 40vh;
+  height: 20vh;
   margin: 0 auto;
+  align-items: center;
 }
 
 div > h4 {
@@ -23,4 +23,8 @@ body {
 
 .container {
   color: aqua;
+}
+
+.content {
+  width: 10vw;
 }
