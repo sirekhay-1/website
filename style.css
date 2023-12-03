@@ -1,3 +1,11 @@
+* {
+  background: pink;
+}
+
+body {
+  background-color: tan;
+}
+
 .image--vid {
   height: 20vh;
   margin: 0 auto;
@@ -7,10 +15,6 @@
 div > h4 {
   font-size: 15px;
   color: sienna;
-}
-
-body {
-  background-color: tan;
 }
 
 .source {
@@ -26,5 +30,5 @@ body {
 }
 
 .content {
-  width: 10px;
+  width: 10;
 }
